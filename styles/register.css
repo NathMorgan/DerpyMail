@@ -1,0 +1,45 @@
+*{
+	font-family: Arial;
+
+}
+
+
+#registerform{
+	margin: auto;
+	width: 320px;
+}
+
+#registerform input{
+	float: right;
+}
+
+#button{
+	display:block;
+    text-align:center;
+}
+
+.info{
+	margin-top: 16px;
+	position: relative;
+}
+
+.correct{
+	color: green;
+}
+
+.error{
+	color: red;
+}
+
+#usernameinfo{
+	margin-top: 0px;
+}
+
+#errorwrapper{
+	position: relative;
+	bottom: 415px;
+	right: 45px;
+	width: 180px;
+	height: 195px;
+	float:right;
+}

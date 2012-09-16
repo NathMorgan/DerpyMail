@@ -1,0 +1,10 @@
+#pagenotfound{
+	text-align: center;
+
+}
+
+#pagenotfound p{
+	font-family: derpyfont;
+	font-size: 40px;
+	color: red;
+}

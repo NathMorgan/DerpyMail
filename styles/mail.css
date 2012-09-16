@@ -1,0 +1,36 @@
+#mailclients{
+	margin-top: 70px;
+	text-align: center;
+}
+
+#remember{
+	margin-left: 10px;
+}
+
+#rememberthis{
+	font-size: 16px;
+}
+
+.mailbox{
+	width: 300px;
+	height: 325px;
+	display: inline-block;
+	margin: 5px;
+}
+
+.mailbox div{
+	width: 180px;
+	height: 180px;
+}
+
+.mailbox:hover{
+	cursor: pointer;
+
+}
+
+
+.buttonimage:hover{
+	margin-left: 65px;
+	margin-top: 5px;
+
+}

@@ -1,0 +1,40 @@
+#contactinputs{
+	width: 535px;
+	height: 325px;
+	margin: auto;
+	margin-top: 50px;
+}
+
+#contactinputs label{
+	font-size: 19px;
+}
+
+#contactinputs select{
+	margin-left: 15px;
+}
+
+#contactinputs input , textarea{
+	float: right;
+}
+
+#contactinputs input , textarea{
+	width: 300px;
+
+}
+
+#contactinputs input{
+	margin-right: 100px;
+}
+
+#contactinputs textarea{
+	resize: none; 
+	height: 200px;
+	width: 400px;
+}
+
+#captchabutton{
+	width: 315px;
+	text-align: center;
+	margin: auto;
+	margin-top: 15px;
+}

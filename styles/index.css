@@ -1,0 +1,97 @@
+/*
+	<!--------------------------DERPYMAIL-----------------------------!>
+	Derpymail Style © to Tuqiri(Nathan Morgan) and Dragoshi(Simon Holian)
+	Please don't copy or distribute
+	Version 2.0.1
+	
+	This CSS file holds the style information for the index page
+	
+	CLASSES:
+		twtr-timeline
+	IDS:
+		twitterwrapper
+		twitter
+		twitterdropdown
+		infobox
+		infoboxtext
+	TAGS:
+		
+	<!--------------------------DERPYMAIL-----------------------------!>
+*/
+
+/* TWITTER STYLE */
+
+
+
+#twitterwrapper{
+	width: 200px;
+	float: right;
+	position: relative;
+	left: 100px;
+}
+
+#twitter{
+	width: 250px;
+	background-color: rgba(0, 0, 0, 0.31);
+	padding-left: 35px;
+	font-size: 25px;
+	display: inline-block;
+}
+
+#twitter a{
+	font-family: derpyfont;
+	color: #f0f3b5;
+	text-decoration: none;
+}
+
+#twitter a:hover{
+	color: #eda930;
+}
+
+#twitter img{
+	width: 35px;
+	float: right;
+	padding-right: 25px;
+}
+
+#twitterdropdown {
+	display: none;
+	margin-left: 20px;
+	padding: 5px;
+	background-color: rgba(0, 0, 0, 0.31);
+	width: 240px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+
+#twitterdropdown ul{
+	padding: 0px;
+	margin: 0px;
+	margin-left: 5px;
+}
+
+#twitterdropdown ul li{
+	list-style: none;
+}
+
+/* INFOBOX STYLE */
+
+#infobox{
+	background-color: #fbffac;
+	width: 560px;
+	height: 550px;
+	float: left;
+	padding: 10px;
+}
+
+
+#infoboxtext p{
+	font-size: 15px;
+}
+
+#infobox p{
+	font-size: 15px;
+	margin-left: 20px;
+	margin-right: 30px;
+	margin-top: 20px;
+}
